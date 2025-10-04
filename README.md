@@ -11,3 +11,4 @@ System requirements:
 -- (JokeXD)
 
 python | compiled with pyinstaller
+<img width="602" height="432" alt="image" src="https://github.com/user-attachments/assets/312b9c05-dca4-4e10-9ca3-03275cce085e" />
