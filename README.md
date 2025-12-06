@@ -6,7 +6,7 @@ Little tts program
 
 System requirements:
 - GPU: RTX 9090
-- CPU: i20 90-900KF
+- CPU: i20 90900KF
 - RAM: 1 TB
 - OS: Windows 13
 - Disc Space: 13 MB
