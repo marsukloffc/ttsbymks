@@ -10,6 +10,5 @@ System requirements:
 - RAM: 1 TB
 - OS: Windows 13
 - Disc Space: 13 MB
--- (JokeXD)
 
 python | compiled with pyinstaller
